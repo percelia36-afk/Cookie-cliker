@@ -1,1 +1,1 @@
-# Cookie-cliknot functional could not figure out how to get it to work
+# Cookie-clik not functional could not figure out how to get it to work
